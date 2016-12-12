@@ -1,0 +1,36 @@
+
+
+
+
+
+@media screen and (min-width: 900px) { 
+#indicateur{
+    float: left;
+    border-right: ridge;
+    width: 40%
+}
+
+#test{
+    display: inline-block;
+    margin-left: 150px;
+}  
+
+#button_recherche{
+    display: inline-block;
+    margin-left: 150px;
+} 
+
+select{
+    margin-top: 5px;
+}
+
+.container back_white{
+    border: ridge;
+    padding: 2%
+}
+
+}
+
+@media screen and (max-width: 900px) { 
+
+}
